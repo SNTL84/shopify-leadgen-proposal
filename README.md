@@ -46,7 +46,7 @@ This repository contains a **fully responsive, conversion-optimized lead generat
 ---
 
 ### 📈 **GROWTH — Most Popular**
-**₹79,999** (project)
+**₹49,999** (project)
 
 D2C brands ready to scale with conversion-first design.
 
@@ -60,7 +60,7 @@ D2C brands ready to scale with conversion-first design.
 ---
 
 ### 🛠️ **SCALE — Enterprise**
-**₹1.5L+** (custom)
+**₹99,000+** (custom)
 
 High-volume, Shopify Plus, headless, custom apps, AI automation.
 
